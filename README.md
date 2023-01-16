@@ -1,3 +1,6 @@
+![Screen Recording 2023-01-16 at 12 19 58 AM (1)](https://user-images.githubusercontent.com/116992298/212610522-c0d8896d-e410-44ed-85bd-bb2ab8818240.gif)
+
+
 <h1 align="center">Hi 👋, I'm Chen (David) Zhuang</h1>
 <h3 align="center">CS student at the University of Waterloo</h3>
 
