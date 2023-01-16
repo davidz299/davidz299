@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen (David) Zhuang</h1>
-<h3 align="center">A CS student at the University of Waterloo</h3>
+<h3 align="center">CS student at the University of Waterloo</h3>
 
 - 🔭 I’m currently working on **the interface of Urban Stylist.**
 
