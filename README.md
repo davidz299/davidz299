@@ -1,5 +1,4 @@
-
-https://user-images.githubusercontent.com/116992298/212614579-8b5c51e3-a36b-4aeb-ae58-08a073fce515.mp4
+![New Banner (2)](https://user-images.githubusercontent.com/116992298/212618240-70dd0eef-b1f6-4b06-b463-215989ef6488.gif)
 
 - 🔭 I’m currently working on **the interface of Urban Stylist.**
 
