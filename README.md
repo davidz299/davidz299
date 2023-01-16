@@ -1,6 +1,5 @@
 ![Screen Recording 2023-01-16 at 12 19 58 AM (2)](https://user-images.githubusercontent.com/116992298/212611507-d29e27e5-74b5-4670-986c-20248a813f3f.gif)
 
-<h1 align="center">Hi 👋, I'm Chen (David) Zhuang</h1>
 <h3 align="center">CS student at the University of Waterloo</h3>
 
 - 🔭 I’m currently working on **the interface of Urban Stylist.**
