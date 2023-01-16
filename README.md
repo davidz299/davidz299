@@ -1,4 +1,5 @@
-![Screen Recording 2023-01-16 at 12 19 58 AM (2)](https://user-images.githubusercontent.com/116992298/212611507-d29e27e5-74b5-4670-986c-20248a813f3f.gif)
+
+https://user-images.githubusercontent.com/116992298/212614579-8b5c51e3-a36b-4aeb-ae58-08a073fce515.mp4
 
 - 🔭 I’m currently working on **the interface of Urban Stylist.**
 
