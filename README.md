@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
 
-- 📫 **davidzhuang29@gmail.com**
+- 📫 **dzhuang@uwaterloo.ca**
 
 <p align="left">
 </p>
