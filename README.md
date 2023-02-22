@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **the interface of Urban Stylist.**
 
-- 🌱 I’m currently learning **Bootstrap 5 and Linux/Unix.**
+- 🌱 I’m currently learning **Bootstrap, jQuery, and Ajax.**
 
 - 👨‍💻 All of my projects are available at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
 
