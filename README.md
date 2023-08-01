@@ -1,8 +1,11 @@
 ![Banner](https://user-images.githubusercontent.com/116992298/212618240-70dd0eef-b1f6-4b06-b463-215989ef6488.gif)
 
 - 💼 Software Developer at Ericsson. Full-stack software development, creating software and tools that automate and simplify tasks.
+  
 • Create software tools in Python and Java used by global institutes, companies and organizations.
+
 • Develop software in Python and Django involving data processing and web scraping. Improved efficiency, reducing the run time from 23 minutes to 3 minutes
+
 • Implement refactoring and functional development of existing software in Python, HTML, and Java.
 
 - 👨‍💻 All of my projects are available at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
