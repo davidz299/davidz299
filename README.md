@@ -2,9 +2,9 @@
 
 💼 Previous Software Developer at Ericsson. Full-stack software development, creating software and tools that automate and simplify tasks.
   
-• Create software tools in Python and Java used by global institutes, companies and organizations.
+• Project lead of numerous software tools in Python and Java used by global institutes, companies and organizations.
 
-• Develop software in Python and Django involving data processing and web scraping. Improved efficiency, reducing the run time from 23 minutes to 3 minutes
+• Develop software in Python and Django involving data processing and web scraping. Improved efficiency, reducing the run time from 23 minutes to 3 minutes.
 
 • Implement refactoring and functional development of existing software in Python, HTML, and Java.
 
