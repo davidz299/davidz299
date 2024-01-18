@@ -2,13 +2,7 @@
 
 💼 Software Developer at Bastian Solutions (Louisville, KY). Developing emulator software and innovative VR for Winter 2024!
 
-💼 Software Developer at Ericsson. Full-stack software development. Developed software and tools that automate and simplify tasks.
-  
-• Project lead of numerous software tools in Python and Java used by global institutes, companies and organizations.
-
-• Develop software in Python and Django involving data processing and web scraping. Improved efficiency, reducing the run time from 23 minutes to 3 minutes.
-
-• Implement refactoring and functional development of existing software in Python, HTML, and Java.
+💼 Software Developer at Ericsson. Full-stack software development. Full-stack software development. Created numerous software tools in Python and Java used by global institutes, companies and organizations.
 
 👨‍💻 All of my projects are available at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
 
