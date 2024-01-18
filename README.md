@@ -2,7 +2,7 @@
 
 💼 Software Developer at Bastian Solutions (Louisville, KY). Developing emulator software and innovative VR for Winter 2024!
 
-💼 Software Developer at Ericsson. Full-stack software development, creating software and tools that automate and simplify tasks.
+💼 Software Developer at Ericsson. Full-stack software development. Developed software and tools that automate and simplify tasks.
   
 • Project lead of numerous software tools in Python and Java used by global institutes, companies and organizations.
 
