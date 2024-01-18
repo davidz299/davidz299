@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/116992298/212618240-70dd0eef-b1f6-4b06-b463-215989ef6488.gif)
 
-💼 Software Developer at Bastian Solutions (Louisville, Kentucky). Developing emulator software and innovative VR for Winter 2024!
+💼 Software Developer at Bastian Solutions (Louisville, KY). Developing emulator software and innovative VR for Winter 2024!
 
 💼 Software Developer at Ericsson. Full-stack software development, creating software and tools that automate and simplify tasks.
   
