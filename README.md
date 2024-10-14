@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/116992298/212618240-70dd0eef-b1f6-4b06-b463-215989ef6488.gif)
 
-💼 Software Engineer Intern at NCR. Leading the development of the Global Cloud Infrastructure!
+☁️ Software Engineer Intern at NCR. Leading the development of the Global Cloud Infrastructure!
 
 💼 Software Developer Intern at Bastian Solutions in Louisville, KY. Developing emulation software for autonomus vehicles.
 
