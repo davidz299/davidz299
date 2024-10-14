@@ -6,7 +6,7 @@
 
 💼 Software Developer Intern at Ericsson. Full-stack software development. Full-stack software development. Created numerous software tools in Python and Java used by global institutes, companies and organizations.
 
-👨‍💻 Some of my projects are available at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
+👨‍💻 Check out some of my projects at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
 
 📫 **dzhuang@uwaterloo.ca**
 
