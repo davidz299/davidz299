@@ -1,10 +1,10 @@
 ![Banner](https://user-images.githubusercontent.com/116992298/212618240-70dd0eef-b1f6-4b06-b463-215989ef6488.gif)
 
-⚡ Software Engineer Intern at NCR. Leading the development of Python Automation Software.
+📊🤖 Software Engineer Intern at NCR. Engineered performance analytics tools and data generation software for advanced AI-chatbots.
 
-📊🚗 Software Developer Intern at Bastian Solutions in Louisville, KY. Developing data modeling and 3D visualization software for autonomous vehicles.
+📊🚗 Software Developer Intern at Bastian Solutions in Louisville, KY. Developed data modeling and 3D visualization software for autonomous vehicles.
 
-🛜🌐 Software Developer Intern at Ericsson. Full-stack software development. Full-stack software development. Created numerous software tools in Python and Java used by global institutes, companies and organizations.
+🛜🌐 Software Developer Intern at Ericsson. Full-stack software development. Created numerous software tools in Python and Java used by global institutes, companies and organizations.
 
 👨‍💻 Check out some of my projects at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
 
