@@ -1,6 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/116992298/212618240-70dd0eef-b1f6-4b06-b463-215989ef6488.gif)
 
 My experience:
+
 💳 Recently, interned at Amazon as a Software Development Engineer Intern. Developed the Amazon Payments website available to global payment providers.
 
 📊🤖 Previously, Software Engineer Intern at NCR. Engineered performance analytics tools and data generation software for advanced AI-chatbots.
