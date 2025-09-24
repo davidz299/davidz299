@@ -2,7 +2,7 @@
 
 My experience:
 
-💳 Recently, interned at Amazon as a Software Development Engineer Intern. Developed the Amazon Payments website available to global payment providers.
+💳 Recently, I interned at Amazon as a Software Development Engineer Intern. Developed the Amazon Payments website available to global payment providers.
 
 📊🤖 Previously, Software Engineer Intern at NCR. Engineered performance analytics tools and data generation software for advanced AI-chatbots.
 
