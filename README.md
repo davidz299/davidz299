@@ -2,13 +2,14 @@
 
 My experience:
 
-💳 Recently, I interned at Amazon as a Software Development Engineer Intern. Developed the Amazon Payments website available to global payment providers.
+🌐🛠️🤖 Recently, I interned at Amazon as a Software Development Engineer Intern, successfully building and shipping global web applications. Developed the Amazon Payments web application available to global payment providers. Also, I built multiple high-impact AI tools tailored to the workflows of engineers and consumers.
 
-📊🤖 Previously, Software Engineer Intern at NCR. Engineered performance analytics tools and data generation software for advanced AI-chatbots.
+📊🌐🛠️ Software Engineer Intern at NCR Voyix. Engineered performance analytics web applications/tools and data generation software.
 
-📊🚗 Software Developer Intern at Bastian Solutions in Louisville, KY. Developed data modeling and 3D visualization software for autonomous vehicles.
+📊🤖🌐 Software Developer Intern at Bastian Solutions. Developed data modeling web applications and 3D visualization software for robotics. Built metrics and monitoring systems for performance and reliability.
 
-🛜🌐 Software Developer Intern at Ericsson. Full-stack software development. Created numerous software tools in Python and Java used by global institutes, companies and organizations.
+🛜🌐🛠️ Software Developer Intern at Ericsson. Full-stack software development of global web applications and tools to enhance engineer workflows. Created numerous software tools in Python and Typescript used by global institutes, companies and organizations.
+
 
 👨‍💻 Check out some of my projects at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
 
