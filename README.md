@@ -4,11 +4,11 @@ My experience:
 
 🌐🛠️🤖 Recently, I interned at Amazon as a Software Development Engineer Intern, successfully building and shipping global web applications. I developed the Amazon Payments web application available to global payment providers. Also, I built multiple high-impact AI tools tailored to the workflows of engineers and consumers.
 
-📊🌐🛠️ Software Engineer Intern at NCR Voyix. I built the testing for global systems and hardware. I also developed & deployed full-stack software for user applications with 400,000+ users worldwide.
+📊🌐🛠️ Software Engineer Intern at NCR Voyix. Built hardware testing for global systems. I also developed & deployed full-stack software for user applications with 400,000+ users worldwide.
 
 📊🤖🌐 Software Developer Intern at Bastian Solutions. I developed data modeling and 3D visualization software for robotics and autonomous vehicles. Also, I built metrics and monitoring systems for performance and reliability. 
 
-🛜🌐🛠️ Software Developer Intern at Ericsson. I was nominated for Co-op of the Year Award! I led the full-stack development of multiple large-scale automation applications and tools to enhance engineer workflows, used by worldwide institutes, companies and organizations.
+🛜🌐🛠️ Software Developer Intern at Ericsson. Nominated for Co-op of the Year Award! I led the full-stack development of multiple large-scale automation applications and tools to enhance engineer workflows, used by worldwide institutes, companies and organizations.
 
 
 👨‍💻 Check out some of my projects at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
