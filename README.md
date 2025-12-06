@@ -8,7 +8,7 @@ My experience:
 
 📊🤖🌐 Software Developer Intern at Bastian Solutions. I developed data modeling and 3D visualization software for robotics and autonomous vehicles. Also, I built metrics and monitoring systems for performance and reliability. 
 
-🛜🌐🛠️ Software Developer Intern at Ericsson. Nominated for Co-op of the Year Award! I led the full-stack development of multiple large-scale automation applications and tools to enhance engineer workflows, used by worldwide institutes, companies and organizations.
+🛜🌐🛠️ Software Developer Intern at Ericsson. Nominated for the Co-op of the Year Award! I led the full-stack development of multiple large-scale automation applications and tools to enhance engineer workflows, used by worldwide institutes, companies and organizations.
 
 
 👨‍💻 Check out some of my projects at [http://www.chendavidzhuang.com/](http://www.chendavidzhuang.com/)
