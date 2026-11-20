@@ -1,5 +1,3 @@
-My experience:
-
 🌐🛠️🤖 Recently, I interned at Amazon as a Software Development Engineer Intern, successfully building and shipping global web applications. I developed the Amazon Payments web application available to global payment providers. Also, I built multiple high-impact AI tools tailored to the workflows of engineers and consumers.
 
 📊🌐🛠️ Software Engineer Intern at NCR Voyix. Built hardware testing for global systems. I also developed & deployed full-stack software for user applications with 400,000+ users worldwide.
