@@ -1,5 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/116992298/212618240-70dd0eef-b1f6-4b06-b463-215989ef6488.gif)
-
 My experience:
 
 🌐🛠️🤖 Recently, I interned at Amazon as a Software Development Engineer Intern, successfully building and shipping global web applications. I developed the Amazon Payments web application available to global payment providers. Also, I built multiple high-impact AI tools tailored to the workflows of engineers and consumers.
